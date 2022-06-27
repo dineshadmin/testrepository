@@ -13,5 +13,5 @@ else
         mkdir "$1"
         echo "Directory created"
 fi
-exit 0
+exit 1
 
